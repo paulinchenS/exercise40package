@@ -1,5 +1,4 @@
-from exercise40package 
-import greeting
+from exercise40package import greeting
 
 
 def main():
